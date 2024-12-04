@@ -1,4 +1,4 @@
-package com.lhjundi.facade;
+package com.lhjundi.facade.email_system_facade;
 
 import java.util.Map;
 
