@@ -1,4 +1,4 @@
-package com.lhjundi.singleton.classes;
+package com.lhjundi.singleton.classes.thread_safe;
 
 public class Singleton {
     private static Singleton instance; //private static self-reference
